@@ -1,0 +1,33 @@
+{
+  "capital" : {
+    "Andhra Pradesh" : "Hyderabad",
+    "Arunachal Pradesh" : "Itanagar",
+    "Assam" : "Dispur",
+    "Bihar" : "Patna",
+    "Chattisgarh" : "Raipur",
+    "Goa" : "Panaji",
+    "Gujarat" : "Gandhi Nagar",
+    "Haryana" : "Chandigarh",
+    "Himachal Pradesh" : "Shimla",
+    "Jammu&Kashmir" : "Jammu",
+    "Jharkand" : "Ranchi",
+    "Karnataka" : "Bengaluru",
+    "Kerala" : "Tiruvananthapuram",
+    "Madhya Pradesh" : "Bhopal",
+    "Maharashtra" : "Mumbai",
+    "Manipur" : "Imphal",
+    "Meghalaya" : "Shillong",
+    "Mizoram" : "Aizawal",
+    "Nagaland" : "Kohima",
+    "Odisha" : "Bhubaneshwar",
+    "Punjab" : "Chandigarh",
+    "Rajasthan" : "Jaipur",
+    "Sikkim" : "Gangtok",
+    "Tamil Nadu" : "Chennai",
+    "Telangana" : "Hyderabad",
+    "Tripura" : "Agartala",
+    "Uttar Pradesh" : "Lucknow",
+    "Uttarkhand" : "Dehradun",
+    "West Bengal" : "Kolkata"
+  }
+}
